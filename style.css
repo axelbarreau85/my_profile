@@ -1,0 +1,54 @@
+
+img	{
+width: 100px; 
+margin: 80px 0px; 
+padding: 0px 24px;
+border-top: 1px solid red;
+border-right: 2px dotted white;
+border-bottom: 1px dashed green;
+border-left: 2px dotted white;
+background: white;   
+border-radius: 50%; 
+}
+
+
+
+h2 {
+  color: red;
+	font-size: 20px;
+	font-family: Helvetica;
+	color: #FF530D;
+}
+
+body { color: rgb(255, 255, 255); 
+
+background-image: url(terre.jpg);
+font-family: Courier, monospace;
+font-size: 30px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	color: rgb(150, 150, 150);
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+a {text-decoration: none; 
+
+color: white;}
+a:hover {background-color: green;
+
+
+
+}
+
+
+
+.card {
+	background-color: white;
+	border-radius: 10 px;
+}
+
+div { border-radius: 20%;
+ }
